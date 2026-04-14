@@ -1,3 +1,12 @@
-## WP Net Price Calculator
-For colleges who are using Wordpress and need an affordable way to provide a tuition net price calculator on their website.  
-For more information and downloads visit [Layer 7 Web Technologies, LLC](https://layer7web.com/downloads/wp-net-price-calculator)
+# WP Net Price Calculator
+
+Empower your students with a seamless tuition estimation experience. This WordPress plugin offers a robust, compliant, and easy-to-configure Net Price Calculator (NPC) for higher education institutions.
+
+## Key Features
+
+* **WordPress Native:** Seamlessly integrates with your existing site.
+* **Accurate Estimations:** Built to use the FAFSA Student Aid Index (SAI) and Pell Grant Eligibility calculations.
+* **Easy Configuration:** Highly customizable to meet your institution's specific needs.
+* **Affordable Solution:** A cost-effective alternative to proprietary NPC software.
+
+For more details and to download, visit [Layer 7 Web Technologies, LLC](https://layer7web.com/wp-net-price-calculator).
